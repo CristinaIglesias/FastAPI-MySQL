@@ -1,5 +1,7 @@
 ## App Basic RestAPI with FastAPI-MySQL-Python
 
+
+![alt text](https://raw.githubusercontent.com/CristinaIglesias/FastAPI-MySQL/main/logo.png)
 ## Resources
     https://fastapi.tiangolo.com/
     https://www.sqlalchemy.org/
