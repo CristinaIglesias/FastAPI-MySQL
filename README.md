@@ -1,6 +1,6 @@
 ## App Basic RestAPI with FastAPI-MySQL-Python
 
-<img src="fastapi-mysql\Logo.jpg" />
+![Logo](https://user-images.githubusercontent.com/68432004/141463176-4d597652-0d1e-422b-9322-986d79251e0c.jpg)
 
 ## Resources
     https://fastapi.tiangolo.com/
